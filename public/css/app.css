@@ -1,0 +1,21 @@
+@charset "utf-8";
+html { 
+  background: url('/images/ulduar.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+body {
+    background-color: transparent;
+    color: #000;
+}
+
+.bs-docs-section {
+    padding: 35px;
+}
+
+table th, table tr, table td {background:transparent}
+.table-sm th,.table-sm td{padding:0.3rem;font-size: 14px}
+.table-xs th,.table-xs td,.table-xs tr{padding:0.2rem;font-size: 12px}
